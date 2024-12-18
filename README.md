@@ -68,21 +68,3 @@ php artisan serve
  ```
  http://localhost:8000
  ```
-
-## Contribuciones
-
-Si deseas contribuir a este proyecto, por favor sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza tus cambios y haz commit (`git commit -m 'Añadir nueva funcionalidad'`).
-4. Envía un pull request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-¡Gracias por utilizar el Proyecto School! Si tienes alguna pregunta, no dudes en abrir un issue en GitHub.
-
