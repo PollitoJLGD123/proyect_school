@@ -27,7 +27,6 @@ text
 3. **Instala las dependencias del proyecto** utilizando Composer:
 
 composer install
-text
 
 4. **Copia el archivo de entorno** y renómbralo:
 
