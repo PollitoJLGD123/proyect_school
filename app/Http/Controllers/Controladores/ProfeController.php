@@ -177,7 +177,7 @@ class ProfeController extends Controller
                 'updated_at' => null,
             ]);
         }
- 
+
         return redirect()->route('profes.asignar_primaria',['profesor'=>$id_profesor])->with('success', 'Docente asignado correctamente');
     }
 
